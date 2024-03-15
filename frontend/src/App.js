@@ -24,24 +24,25 @@ function App() {
     <div className="app">
       
       <div className="logo2">
-      <img src="\logo3.png" alt="Logo"/>
+      <img src="\logo3.jpg" alt="Logo"/> 
 
       </div>
       <div className="container">
         
         <div>
         
-        <h1 > Task Manager App</h1><br /><br />
+        <h1 > Task Manager Page </h1><br /><br />
         
         
-        <h2>Welcome...😊</h2><p> To our Task Manager app📝⏳ here you can simply write, update and delete your tasks Seamlessly with ease and efficiency and to stay productive and in control of your workload. </p>
+        <h2>Welcome..✌</h2><br /> <i></i>
+        <b>NOTE:👇</b><p> <b>[</b> This app is specially designed for you, <b>(<em>Aslesha==Careless😂</em>)</b> here you can simply write, update, and delete your tasks while studying seamlessly and efficiently to stay productive and in control of your workload.<b> ]</b> <br /> <p>Let's turn those <b><i> 'oh no's' into 'oh yeahs'</i></b> and tackle life with a smile! ✨😄</p> </p>
 
         </div>
         
         <div className="top">
           <input
             type="text"
-            placeholder="Add Task..."
+            placeholder=" Let's add yous Task Careless..."
             value={text}
             onChange={(event) => setText(event.target.value)}
           />

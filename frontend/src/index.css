@@ -26,12 +26,12 @@ h1 {
   text-align: center;
   font-size: 2em;
   font-weight: bold;
-  /* background-color: rgb(198, 194, 183); */
+  /*.. background-color: rgb(198, 194, 183); */
   border-radius: 1%;
   
 }
 h2{
-  color: blueviolet;
+  color: rgb(157, 62, 160);
   font-size: 1.8em;
   
 }
@@ -131,7 +131,7 @@ input {
       width: 100%;
       position: fixed;
       bottom: 1.5%;
-      left: 2%;
+      left: 1%;
   
 
 }
