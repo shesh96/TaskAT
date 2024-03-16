@@ -35,14 +35,14 @@ function App() {
         
         
         <h2>Welcome..✌</h2><br /> <i></i>
-        <b>NOTE:👇</b><p> <b>[</b> This app is specially designed for you, <b>(<em>Aslesha==Careless😂</em>)</b> here you can simply write, update, and delete your tasks while studying seamlessly and efficiently to stay productive and in control of your workload.<b> ]</b> <br /> <p>Let's turn those <b><i> 'oh no's' into 'oh yeahs'</i></b> and tackle life with a smile! ✨😄</p> </p>
+        <b>NOTE:👇</b><p> <b>[</b> This app is specially designed for you, <b>(<em>Aslesha==Careless 😂</em>)</b> <i>[sorry😐]</i> here you can simply write, update, and delete your tasks while studying seamlessly and efficiently to stay productive and in control of your workload.<b> ]</b> <br /> <p>Let's turn those <b><i> 'oh no's' into 'oh yeahs'</i></b> and tackle life with a smile! ✨😄</p> </p>
 
         </div>
         
         <div className="top">
           <input
             type="text"
-            placeholder=" Let's add yous Task Careless..."
+            placeholder=" Let's add your Task Careless..."
             value={text}
             onChange={(event) => setText(event.target.value)}
           />

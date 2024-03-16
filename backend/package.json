@@ -1,12 +1,12 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "This is the backend of a todo app which is build using MERN",
+  "description": "This is the backend of a Task app which is build using MERN",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Abhijit Biswas",
+  "author": "Shesh",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
