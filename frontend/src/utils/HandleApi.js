@@ -1,7 +1,7 @@
 import axios from "axios";
 
-// const baseurl = "http://localhost:5000";
-const baseurl = "https://taskat-y1yg.onrender.com";
+ const baseurl = "http://localhost:5000";
+//const baseurl = "https://taskat-y1yg.onrender.com";
 
 /* GET ALL TODOS */
 const getTodos = (setTodo) => {
